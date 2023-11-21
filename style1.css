@@ -1,0 +1,82 @@
+
+.logo{
+    margin: 50px;
+    border: 100px;
+   display: block;
+   height: 100px;
+   width: 100px;
+   margin: auto;
+   align-items: center;
+
+
+.nav1{
+    align-items: center;
+}
+.home{
+    background-color:#000000;
+    
+    color: #d23737;
+    height: 50px;
+
+}
+
+.rectangle{}
+   height: 50px;
+    width: 50/auto;
+    background-color:#d23737;
+}
+.headings{
+    text-align: center;
+    color: #d23737;
+    size: 100px;
+    
+}
+
+.sheadings{
+    margin-left: 250px;
+    color: #d23737;
+    font-size: 30px;
+    align-content: center;
+}
+
+
+p{  
+}
+
+h4{
+    text-align: end;
+}
+
+   h3{
+        color: rgb(208, 208, 226);
+        margin-left: 180px;
+    }
+    
+    .contactpg{
+        margin-left:20px;
+        color: rgb(78, 78, 251);
+        background-color: blue;
+        align-content: center;
+        height: 300px;
+            
+        
+    }
+    
+    #email1{
+    background-color:rgb(255, 255, 255);
+    margin-left: 50px;
+    }
+    
+    
+    #name{
+        color: rgb(255, 255, 255);
+        margin-left: 40px;
+    
+    
+    }
+    
+    #msg1{
+        margin-left: 40px;  
+    }
+
+   
