@@ -1,5 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0%;
+}
 
-.logo{
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+nav a{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px 20px;
+    margin:0px;
+    text-decoration: none;
+    text-align: center;
+    font-size: larger;
+      
+}
+
+nav a :hover{
+    background-color: aliceblue;
+    color: black;
+    
+}
+
+.cont{
+    margin: 0%;
+    padding: 0%;
+    background-color: blanchedalmond;
+}
+
+.head .logo{
     margin: 50px;
     border: 100px;
    display: block;
@@ -8,75 +41,22 @@
    margin: auto;
    align-items: center;
 
-
-.nav1{
-    align-items: center;
-}
-.home{
-    background-color:#000000;
-    
-    color: #d23737;
-    height: 50px;
-
 }
 
-.rectangle{}
-   height: 50px;
-    width: 50/auto;
-    background-color:#d23737;
-}
-.headings{
+.head h1{
     text-align: center;
-    color: #d23737;
-    size: 100px;
-    
+    color:brown;
 }
 
-.sheadings{
-    margin-left: 250px;
-    color: #d23737;
-    font-size: 30px;
-    align-content: center;
+h2{
+    text-align: center;
+    color:brown;
 }
 
-
-p{  
-}
-
-h4{
-    text-align: end;
-}
-
-   h3{
-        color: rgb(208, 208, 226);
-        margin-left: 180px;
-    }
-    
-    .contactpg{
-        margin-left:20px;
-        color: rgb(78, 78, 251);
-        background-color: blue;
-        align-content: center;
-        height: 300px;
-            
-        
-    }
-    
-    #email1{
-    background-color:rgb(255, 255, 255);
-    margin-left: 50px;
-    }
-    
-    
-    #name{
-        color: rgb(255, 255, 255);
-        margin-left: 40px;
-    
-    
-    }
-    
-    #msg1{
-        margin-left: 40px;  
-    }
-
-   
+.bgimg{
+    background-image:url(smrps.jpg);
+    background-size: cover;
+background-repeat: no-repeat;
+margin-top: 0%;
+height: 100vh;
+width: auto;
