@@ -1,0 +1,87 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0%;
+}
+
+nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+nav a{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px 20px;
+    margin:0px;
+    text-decoration: none;
+    text-align: center;
+    font-size: larger;
+      
+}
+
+nav a :hover{
+    background-color: aliceblue;
+    color: black;
+    
+}
+
+.head .logo{
+    margin: 50px;
+    border: 100px;
+   display: block;
+   height: 100px;
+   width: 100px;
+   margin: auto;
+   align-items: center;
+
+}
+
+.head h1{
+    text-align: center;
+    color:brown;
+}
+
+h2{
+    text-align: center;
+    color:brown;
+}
+
+.contact form label{
+    text-align: left;
+    justify-content: left;
+}
+
+.contact{
+    background-color: #fff;
+    padding: 1px;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+form input{
+    background-color: #333;
+    padding: 10px;
+    font-size: 16px;
+}
+form textarea{
+    background-color: #333;
+    padding: 10px;
+    font-size: 16px;
+    color: #868686;
+
+}
+
+.contact form label{
+    text-align: left;
+    justify-content: left;
+}
+
+#sbt{
+    background-color: #ffffff;
+    padding: 10px;
+    font-size: 16px;
+    color: #000000;
+    border-radius: 20px;
+}
