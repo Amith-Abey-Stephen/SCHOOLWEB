@@ -58,5 +58,39 @@ h2{
     background-size: cover;
 background-repeat: no-repeat;
 margin-top: 0%;
-height: 100vh;
+height: 150vh;
 width: auto;
+}
+
+.about{
+    background-color: #c53c3c;
+    padding: 1px;
+    
+    font-family: sans-ser;
+}
+.about h2{
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.about h4{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.contact{
+    background-color: #fff;
+    padding: 1px;
+    text-align: center;
+    justify-content: center;
+}
+
+.contact p{
+    color: #c53c3c;
+    
+}
+
+.cont2{
+    text-align: 10px;
+    justify-content: center;
+}
