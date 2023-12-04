@@ -54,11 +54,11 @@ h2{
 }
 
 .bgimg{
-    background-image:url(smrps.jpg);
+    background-image:url(smrps.png);
     background-size: cover;
 background-repeat: no-repeat;
 margin-top: 0%;
-height: 150vh;
+height: 140vh;
 width: auto;
 }
 
@@ -69,13 +69,15 @@ width: auto;
     font-family: sans-ser;
 }
 .about h2{
-    font-size: 40px;
+    font-size: 30px;
     color: #ffffff;
 }
 
 .about h4{
     color: #ffffff;
-    font-size: 20px;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .contact{
@@ -93,4 +95,11 @@ width: auto;
 .cont2{
     text-align: 10px;
     justify-content: center;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
 }
